@@ -18,7 +18,7 @@ const Feed = () => {
           variant='body2'
           sx={{ mt: 1.5, color: '#fff' }}
         >
-          Copyright 2022 J Wander
+          Copyright 2022 J. Wander
         </Typography>
       </Box>
       <Box
